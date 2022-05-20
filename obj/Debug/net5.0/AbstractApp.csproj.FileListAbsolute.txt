@@ -1,0 +1,16 @@
+C:\Users\casper\Desktop\c#\AbstractApp\bin\Debug\net5.0\AbstractApp.exe
+C:\Users\casper\Desktop\c#\AbstractApp\bin\Debug\net5.0\AbstractApp.deps.json
+C:\Users\casper\Desktop\c#\AbstractApp\bin\Debug\net5.0\AbstractApp.runtimeconfig.json
+C:\Users\casper\Desktop\c#\AbstractApp\bin\Debug\net5.0\AbstractApp.runtimeconfig.dev.json
+C:\Users\casper\Desktop\c#\AbstractApp\bin\Debug\net5.0\AbstractApp.dll
+C:\Users\casper\Desktop\c#\AbstractApp\bin\Debug\net5.0\ref\AbstractApp.dll
+C:\Users\casper\Desktop\c#\AbstractApp\bin\Debug\net5.0\AbstractApp.pdb
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\AbstractApp.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\AbstractApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\AbstractApp.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\AbstractApp.AssemblyInfo.cs
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\AbstractApp.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\AbstractApp.dll
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\ref\AbstractApp.dll
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\AbstractApp.pdb
+C:\Users\casper\Desktop\c#\AbstractApp\obj\Debug\net5.0\AbstractApp.genruntimeconfig.cache
